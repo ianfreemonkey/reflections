@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+Initialinzing a Git repository kicks off the meta data file in your directory. You need to do a Git init because it kicks off your organzioin for proper version control.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging is the prep area for your commit. It's the middle area between the directory and the repository. The staging area is a work table of sorts that lets you organize what will be commited and what does not need to be commited.
