@@ -1,0 +1,11 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?  Diff compared the files to eachother and showed the differences in information.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term? I will be able to compare before and after to see the differences and chages that have occured. Note those of value and move one.
+
+Because you work on a system as a whole so multi-file commits are important vs. Google Docs which treats each file individuall.
+
+How might using version control make you more confident to make changes that could break something? _ I can always roll back the commit and use the 'change' that has the correct or best coding choices. It allows me to explore different changes and tests so I can be confident that I will not break anything.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I can stay organized with current files which will only live on production and keep old files which would now be old commits. This leaves the site directory less cluttered.
+
