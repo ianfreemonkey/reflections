@@ -6,3 +6,5 @@ I can see the master branch and follow the testing branch to ensure reachability
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do? The result of merging two branches together combines to repository locations into one location. Combining sets of the same code base.
 We represent it in the diagram the way we do becuase it displays the parent child replationship of the intinal commit and the branch standings.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually? Git's automatic mergeing Pro: it works easy and is consistent with commits. Mergeing manually can cause alerts that your code needs attending too. This can be challenging because you have to review the Git alerts.
