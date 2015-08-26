@@ -3,3 +3,6 @@ How do the diagrams help you visualize the branch structure?
 The diagram organizes the layout of my project's git tree
 
 I can see the master branch and follow the testing branch to ensure reachability.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do? The result of merging two branches together combines to repository locations into one location. Combining sets of the same code base.
+We represent it in the diagram the way we do becuase it displays the parent child replationship of the intinal commit and the branch standings.
