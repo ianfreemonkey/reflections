@@ -1,0 +1,5 @@
+How do the diagrams help you visualize the branch structure?
+
+The diagram organizes the layout of my project's git tree
+
+I can see the master branch and follow the testing branch to ensure reachability.
