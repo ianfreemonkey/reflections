@@ -6,7 +6,7 @@ A:  Pulling changes manually allows you to review the commits that have occured.
 
 Q:  Describe the differences between forks, clones, and branches. When would you use one instead of another?
 A:Forks: Forks are clones files that live within Github
-Clones: Clones are pull requests from a Github repository that live locally
-Branches: Branches are a new division of your master code set. Branches are used to test concepts and ideas not on the master code base.
+ Clones: Clones are pull requests from a Github repository that live locally
+ Branches: Branches are a new division of your master code set. Branches are used to test concepts and ideas not on the master code base.
 
 
