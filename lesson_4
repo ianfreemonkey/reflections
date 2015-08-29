@@ -5,8 +5,9 @@ Q:  Why might you want to always pull changes manually rather than having Git au
 A:  Pulling changes manually allows you to review the commits that have occured. Plus if you are in a collabrative enviroment going automatic could merge code you removed.
 
 Q:  Describe the differences between forks, clones, and branches. When would you use one instead of another?
-A:Forks: Forks are clones files that live within Github
- Clones: Clones are pull requests from a Github repository that live locally
- Branches: Branches are a new division of your master code set. Branches are used to test concepts and ideas not on the master code base.
+A:  Forks: Forks are clones files that live within Github
+  Clones: Clones are pull requests from a Github repository that live locally
+  Branches: Branches are a new division of your master code set. Branches are used to test concepts and ideas not on the master code base.
 
-
+Q:  What is the benefit of having a copy of the last known state of the remote stored locally?
+A:  This allows you to build off of a current branch/master so your code is in sync with the remote respostitory. You can also track changes of your local vs. your remote.
