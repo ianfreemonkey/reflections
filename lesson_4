@@ -13,5 +13,7 @@ Q:  What is the benefit of having a copy of the last known state of the remote s
 A:  This allows you to build off of a current branch/master so your code is in sync with the remote respostitory. You can also track changes of your local vs. your remote.
 
 Q:  How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
-
 A:  I would use Google drive or Dropbox to house a master repostitory. But it would be hard because of the lack of alerts for code similarites. Also adding notes is important to follow along with changes.
+
+Q:  When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A:  You would want to make changes on a seperate branch when you are collaborating with teammates to keep your master clean. Making changes on the master is generally best when it's your own project.
