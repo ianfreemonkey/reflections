@@ -11,3 +11,7 @@ A:  Forks: Forks are clones files that live within Github
 
 Q:  What is the benefit of having a copy of the last known state of the remote stored locally?
 A:  This allows you to build off of a current branch/master so your code is in sync with the remote respostitory. You can also track changes of your local vs. your remote.
+
+Q:  How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+A:  I would use Google drive or Dropbox to house a master repostitory. But it would be hard because of the lack of alerts for code similarites. Also adding notes is important to follow along with changes.
